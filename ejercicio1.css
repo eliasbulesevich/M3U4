@@ -1,0 +1,21 @@
+#cuadrado_1{
+    background-color: red;
+	width: 100px;
+	height: 100px;
+    display: inline-flex;
+}
+
+#cuadrado_2{
+    background-color: yellow;
+	width: 100px;
+	height: 100px;
+    display: inline-flex;
+}
+
+#cuadrado_3{
+    background-color: blue;
+	width: 100px;
+	height: 100px;
+    display: inline-flex;
+}
+
